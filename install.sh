@@ -58,7 +58,7 @@ fi
 
 # التنزيل
 print_status "Downloading Uni_Stalker from GitHub..."
-wget -O /tmp/Uni_Stalker.tar.gz https://github.com/MARKETTV1/union/raw/refs/heads/main/Uni_Stalker.tar.gz
+wget -O /tmp/Uni_Stalker.tar.gz https://github.com/Said-Pro/Uni_Stalker/raw/refs/heads/main/Uni_Stalker.tar.gz
 
 if [ $? -eq 0 ]; then
     print_success "Download completed successfully"
