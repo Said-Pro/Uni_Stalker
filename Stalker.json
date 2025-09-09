@@ -1,12 +1,167 @@
 [
     {
-        "SERVER_NAME": "server",
-        "SERVER_HOST": "http://host.com:port/c/",
-        "ADRESS_MAC": "00:1A:79:AA:BB:99"
+        "SERVER_NAME": "full-tv100",
+        "SERVER_HOST": "http://full-tv100.com/c",
+        "ADRESS_MAC": "00:1A:79:BD:B9:3D"
+    },
+    {
+        "SERVER_NAME": "full-tv100-0",
+        "SERVER_HOST": "http://full-tv100.com/c",
+        "ADRESS_MAC": "00:1A:79:E7:90:1A"
+    },
+    {
+        "SERVER_NAME": "full-tv100",
+        "SERVER_HOST": "http://full-tv100.com/c",
+        "ADRESS_MAC": "00:1A:79:B5:9F:B7"
+    },
+    {
+        "SERVER_NAME": "full-tv100-2",
+        "SERVER_HOST": "http://full-tv100.com/c",
+        "ADRESS_MAC": "00:1A:79:81:9A:CB"
+    },
+    {
+        "SERVER_NAME": "avare",
+        "SERVER_HOST": "http://avare.kingtv.pw:80/c/",
+        "ADRESS_MAC": "00:1A:79:14:E0:B6"
+    },
+    {
+        "SERVER_NAME": "3tv",
+        "SERVER_HOST": "http://3tv.pro/c/",
+        "ADRESS_MAC": "00:1A:79:B5:10:00"
+    },
+    {
+        "SERVER_NAME": "line.iptvwings",
+        "SERVER_HOST": "http://line.iptvwings.com/c/",
+        "ADRESS_MAC": "00:1A:79:28:1F:30"
+    },
+    {
+        "SERVER_NAME": "ackup",
+        "SERVER_HOST": "http://ackup.xp1.tv/c",
+        "ADRESS_MAC": "00:1A:79:BA:D9:2F"
+    },
+    {
+        "SERVER_NAME": "ackup55",
+        "SERVER_HOST": "http://ackup.xp1.tv/c",
+        "ADRESS_MAC": "00:1A:79:BA:D9:2F"
+    },
+    {
+        "SERVER_NAME": "tr.redatvgold",
+        "SERVER_HOST": "http://tr.redatvgold.com/c",
+        "ADRESS_MAC": "00:1A:79:1c:03:EE"
+    },
+    {
+        "SERVER_NAME": "33769",
+        "SERVER_HOST": "http://33769-mental.cloud-x.me/c",
+        "ADRESS_MAC": "00:1A:79:C3:91:40"
+    },
+    {
+        "SERVER_NAME": "33769",
+        "SERVER_HOST": "http://33769-mental.cloud-x.me/c",
+        "ADRESS_MAC": "00:1A:79:77:84:03"
+    },
+    {
+        "SERVER_NAME": "500550",
+        "SERVER_HOST": "http://500550.org/c",
+        "ADRESS_MAC": "00:1A:79:D5:68:FA"
+    },
+    {
+        "SERVER_NAME": "king4k",
+        "SERVER_HOST": "http://king4k.tv:8080/c",
+        "ADRESS_MAC": "00:1A:79:E4:8E:62"
+    },
+    {
+        "SERVER_NAME": "m.devtv",
+        "SERVER_HOST": "http://m.devtv.biz:80/c",
+        "ADRESS_MAC": "00:1A:79:56:3F:CD"
+    },
+    {
+        "SERVER_NAME": "m.devtv",
+        "SERVER_HOST": "http://m.devtv.biz/c",
+        "ADRESS_MAC": "00:1A:79:24:2F:98"
+    },
+    {
+        "SERVER_NAME": "technologycloud",
+        "SERVER_HOST": "http://technologycloud.eu:80/c",
+        "ADRESS_MAC": "00:1A:79:00:12:E4"
+    },
+    {
+        "SERVER_NAME": "technologycloud",
+        "SERVER_HOST": "http://technologycloud.eu:80/c",
+        "ADRESS_MAC": "00:1A:79:f2:ed:18"
+    },
+    {
+        "SERVER_NAME": "technologycloud",
+        "SERVER_HOST": "http://technologycloud.eu/c",
+        "ADRESS_MAC": "00:1A:79:05:E6:B6"
+    },
+    {
+        "SERVER_NAME": "Main.myppir",
+        "SERVER_HOST": "http://main.myppir:8080/c",
+        "ADRESS_MAC": "00:1A:79:31:70:A2"
+    },
+    {
+        "SERVER_NAME": "to-jest",
+        "SERVER_HOST": "http://to-jest-link.cc:80/c/",
+        "ADRESS_MAC": "00:1A:79:00:35:76"
+    },
+    {
+        "SERVER_NAME": "to-jest-link",
+        "SERVER_HOST": "http://to-jest-link.cc:80/c",
+        "ADRESS_MAC": "00:1A:79:00:20:71"
+    },
+    {
+        "SERVER_NAME": "raptor-tv",
+        "SERVER_HOST": "http://raptor-tv.com:80/c",
+        "ADRESS_MAC": "00:1A:79:67:BE:09"
+    },
+    {
+        "SERVER_NAME": "iptvplatinum",
+        "SERVER_HOST": "http://iptvplatinum.net/c/",
+        "ADRESS_MAC": "00:1A:79:81:D7:53"
+    },
+    {
+        "SERVER_NAME": "iptvplatinum",
+        "SERVER_HOST": "http://iptvplatinum.net/c",
+        "ADRESS_MAC": "00:1A:79:AB:02:58"
     },
     {
         "SERVER_NAME": "iptvplatinum",
         "SERVER_HOST": "http://iptvplatinum.net/c/",
         "ADRESS_MAC": "00:1A:79:6B:0F:C6"
+    },
+    {
+        "SERVER_NAME": "iptvplatinum",
+        "SERVER_HOST": "http://iptvplatinum.net/c/",
+        "ADRESS_MAC": "00:1A:79:7E:2A:79"
+    },
+    {
+        "SERVER_NAME": "iptvplatinum",
+        "SERVER_HOST": "http://iptvplatinum.net/c/",
+        "ADRESS_MAC": "00:1A:79:d0:08:9a"
+    },
+    {
+        "SERVER_NAME": "ch-4k",
+        "SERVER_HOST": "http://ch-4k-top.org/c/",
+        "ADRESS_MAC": "00:1A:79:56:CD:54"
+    },
+    {
+        "SERVER_NAME": "premium",
+        "SERVER_HOST": "http://premium-ott4k.xyz:80/c",
+        "ADRESS_MAC": "00:1A:79:4D:6B:4B"
+    },
+    {
+        "SERVER_NAME": "33769",
+        "SERVER_HOST": "http://-mental.cloud-x.me/c",
+        "ADRESS_MAC": "00:1A:79:C3:C0:21"
+    },
+    {
+        "SERVER_NAME": "line.my-tv",
+        "SERVER_HOST": "http://line.my-tv.cc/c",
+        "ADRESS_MAC": "00:1A:79:D5:71:7B"
+    },
+    {
+        "SERVER_NAME": "es.magtr",
+        "SERVER_HOST": "http://es.magtr.cc/c/",
+        "ADRESS_MAC": "00:1A:79:A9:58:BB"
     }
 ]
