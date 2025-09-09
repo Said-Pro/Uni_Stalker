@@ -1,0 +1,12 @@
+[
+    {
+        "SERVER_NAME": "server",
+        "SERVER_HOST": "http://host.com:port/c/",
+        "ADRESS_MAC": "00:1A:79:AA:BB:99"
+    },
+    {
+        "SERVER_NAME": "iptvplatinum",
+        "SERVER_HOST": "http://iptvplatinum.net/c/",
+        "ADRESS_MAC": "00:1A:79:6B:0F:C6"
+    }
+]
